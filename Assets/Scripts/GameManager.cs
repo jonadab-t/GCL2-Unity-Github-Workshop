@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 
     [Header("Game Settings")]
     public int startingScore = 0;   // <-- Activity 2 script conflict target
-    public int lives = 4;           
+    public int lives = 1;           // <-- Activity 3 merge conflict target
     public float gameSpeed = 1.0f;
 
     private void Awake()
