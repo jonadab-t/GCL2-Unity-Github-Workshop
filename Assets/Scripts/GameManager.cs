@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 
     [Header("Game Settings")]
     public int startingScore = 0;   // <-- Activity 2 script conflict target
-    public int lives = 1;           // <-- Activity 3 merge conflict target
+    public int lives = 4;           
     public float gameSpeed = 1.0f;
 
     private void Awake()
@@ -26,7 +26,7 @@ public class GameManager : MonoBehaviour
     public void LoseLife()
     {
         lives--;
-        Debug.Log("Life lost! " + lives + " left.");
+        Debug.Log("Lives left: " + lives);
 
         if (lives <= 0)
         {
