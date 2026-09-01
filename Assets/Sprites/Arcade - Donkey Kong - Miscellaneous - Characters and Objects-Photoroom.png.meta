@@ -1,0 +1,2691 @@
+fileFormatVersion: 2
+guid: cbd72104ad953074c82720a39bd212e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5839385947754554948
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_0
+  - first:
+      213: 5915337118021691647
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_1
+  - first:
+      213: -7554198355689336062
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_2
+  - first:
+      213: -6416925020780070310
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_3
+  - first:
+      213: -4218064841993956900
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_4
+  - first:
+      213: -8227064857099581334
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_5
+  - first:
+      213: 4557570773456041072
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_6
+  - first:
+      213: 7818630655130163601
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_7
+  - first:
+      213: -3633115934714873778
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_8
+  - first:
+      213: -1742798639079912785
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_9
+  - first:
+      213: -1338537087352171703
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_10
+  - first:
+      213: -995756791735813838
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_11
+  - first:
+      213: 1499026207562634057
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_12
+  - first:
+      213: 3402916182907299833
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_13
+  - first:
+      213: 3899403235071048666
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_14
+  - first:
+      213: 2412374000970607830
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_15
+  - first:
+      213: 7432211724360498399
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_16
+  - first:
+      213: -37175639633729081
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_17
+  - first:
+      213: -5264852093493504813
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_18
+  - first:
+      213: 8106043787054775727
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_19
+  - first:
+      213: 472022126340068185
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_20
+  - first:
+      213: -487865830820560267
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_21
+  - first:
+      213: -2658037282766024345
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_22
+  - first:
+      213: 2833084782153921467
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_23
+  - first:
+      213: -4777479361559551459
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_24
+  - first:
+      213: -6369364818018339270
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_25
+  - first:
+      213: 4487024577194899267
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_26
+  - first:
+      213: 5936317420271690931
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_27
+  - first:
+      213: 4539580704107046883
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_28
+  - first:
+      213: 8877411738039330312
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_29
+  - first:
+      213: 355048630958876431
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_30
+  - first:
+      213: 3893085072240586367
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_31
+  - first:
+      213: 9171102015505670001
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_32
+  - first:
+      213: 791218744468711609
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_33
+  - first:
+      213: -6214063635593920402
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_34
+  - first:
+      213: -561996756487877531
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_35
+  - first:
+      213: 7283422502546609764
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_36
+  - first:
+      213: -1574864037908442337
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_37
+  - first:
+      213: 7018584969977362377
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_38
+  - first:
+      213: -2722127288264560780
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_39
+  - first:
+      213: -6709393414983440743
+    second: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 509
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4466152c49aa90150800000000000000
+      internalID: 5839385947754554948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 509
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8ad5e94cf771250800000000000000
+      internalID: 5915337118021691647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 453
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2031c4e8e981a2790800000000000000
+      internalID: -7554198355689336062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 458
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a761221b082f6a0800000000000000
+      internalID: -6416925020780070310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 453
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1d26ddf5c6675c0800000000000000
+      internalID: -4218064841993956900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 419
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a68ca70f91893dd80800000000000000
+      internalID: -8227064857099581334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 419
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 074bc8ea87ebf3f30800000000000000
+      internalID: 4557570773456041072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 419
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 199530de72b518c60800000000000000
+      internalID: 7818630655130163601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 420
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4832837e44949dc0800000000000000
+      internalID: -3633115934714873778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 420
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa8b9a1fd550d7e0800000000000000
+      internalID: -1742798639079912785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_10
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 386
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94310b56c9f8c6de0800000000000000
+      internalID: -1338537087352171703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 387
+        width: 30
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23977e1497c5e22f0800000000000000
+      internalID: -995756791735813838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 387
+        width: 14
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94395c2c46c9dc410800000000000000
+      internalID: 1499026207562634057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 387
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f72e9a2d36993f20800000000000000
+      internalID: 3402916182907299833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 387
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb3b6615967d1630800000000000000
+      internalID: 3899403235071048666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcad316f597a7120800000000000000
+      internalID: 2412374000970607830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 317
+        width: 17
+        height: 17
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc300e8f25842760800000000000000
+      internalID: 7432211724360498399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 317
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c96555e3fceb7ff0800000000000000
+      internalID: -37175639633729081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 236
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d419545aec7fe6b0800000000000000
+      internalID: -5264852093493504813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 236
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad792d60e37e7070800000000000000
+      internalID: 8106043787054775727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 202
+        width: 42
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953df9e7f95fc8600800000000000000
+      internalID: 472022126340068185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 202
+        width: 43
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 572c3e79c90ca39f0800000000000000
+      internalID: -487865830820560267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 236
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7619cf89c21cc1bd0800000000000000
+      internalID: -2658037282766024345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 236
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb379da5993215720800000000000000
+      internalID: 2833084782153921467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 160
+        width: 44
+        height: 33
+      alignment: 9
+      pivot: {x: 0.6493318, y: -1.9042425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12ab7435dbf2bdb0800000000000000
+      internalID: -4777479361559551459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 160
+        width: 40
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6493318, y: -1.9042425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a367521c1787b97a0800000000000000
+      internalID: -6369364818018339270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 160
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6493318, y: -1.9042425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3473626641d154e30800000000000000
+      internalID: 4487024577194899267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 160
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0.6493318, y: -1.9042425}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4e145ed39026250800000000000000
+      internalID: 5936317420271690931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 65
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7a4814994dffe30800000000000000
+      internalID: 4539580704107046883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 35
+        width: 43
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806a7b2f0f6e23b70800000000000000
+      internalID: 8877411738039330312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 23
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f07ea4649d26de400800000000000000
+      internalID: 355048630958876431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 23
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ea64b2f34070630800000000000000
+      internalID: 3893085072240586367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 23
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f951941bc464f70800000000000000
+      internalID: 9171102015505670001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 12
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b820bb8149fafa00800000000000000
+      internalID: 791218744468711609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 23
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6080c40c0633c9a0800000000000000
+      internalID: -6214063635593920402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 12
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c4e947de26338f0800000000000000
+      internalID: -561996756487877531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 12
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46690654d2ae31560800000000000000
+      internalID: 7283422502546609764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 12
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f131ee26085f42ae0800000000000000
+      internalID: -1574864037908442337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 1
+        width: 130
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c7756918d5076160800000000000000
+      internalID: 7018584969977362377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1
+        width: 41
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47fe79d57af093ad0800000000000000
+      internalID: -2722127288264560780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1
+        width: 23
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9962199ac3273e2a0800000000000000
+      internalID: -6709393414983440743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 509
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a48999ddad163542819e3c2d8eb8570
+      internalID: 7854626040592799993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 509
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b42d516972799834f9af31954cdaa9b4
+      internalID: 3096834997880701523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abe94119a6f6f5141b60c24e343ca8b6
+      internalID: -7564626982899890335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5eb188a273119140b351c920646f9a0
+      internalID: 8041712339439714898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c326b8fb0b7e4c43b763c920b4141d9
+      internalID: 1609175439889738156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 509
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81463aa67d0ac38478f377283798678f
+      internalID: 2052355295785039061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca474c1b4cb3a14bb1be345c315fa65
+      internalID: 4462176046647719894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 750422ed955451a45818ee577534f495
+      internalID: -8828635491035188467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faea6320b08b649449a584d55b058a19
+      internalID: -2433486534859377626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 509
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f3fd682372b22b4ea602f2db8049579
+      internalID: 2689212747915282111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 491
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc45a63e3e109bb4d81df88701fd5e9b
+      internalID: -6720518705156424673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 491
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7643508c57328a4892d779f49d74551
+      internalID: 6807618993821064295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 491
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5437a5dd914ec9147bdd797ef09f38a3
+      internalID: 3027228368767700163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 491
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e06c9f394276b4fa19e5278c35c420
+      internalID: -4378897405336470504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_55
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 491
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1a3b6281a47d14fb8f5f431f22cbd8
+      internalID: 5194752514512784083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 491
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52631bed169e5de4bad6be81d18fc01d
+      internalID: -344319957899596377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_57
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e3333871ebb3b4a944c4d7647d7bdf
+      internalID: -3754736251246746370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fbb56c4e1e4ae540b73677064a6f833
+      internalID: 1107571725646584477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5264c6662a7069f409f7dc1f9ab35945
+      internalID: 3750583273631340835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 473
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d429af52e2e515f42a7c1f5879f0f500
+      internalID: 5972410462227534087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 473
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b32ab1eb1fea524d8d223d58681da38
+      internalID: -6643704627178678633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 474
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22140710d23a12a469a4929ce8c4d072
+      internalID: -1835185137380172701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 473
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00045c9585376614ba4a13e3ef1b18b9
+      internalID: 8872060121484129153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_64
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 473
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f165fe4a4357b445941a227b71c7fae
+      internalID: -513712553439363117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_65
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 473
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976b007f06161d44c9a382b97e705a1f
+      internalID: 5859017568554564150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_66
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 473
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc79a4f3b05ad046ad6850815808837
+      internalID: 1977405963157095856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_67
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 455
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72d91229201f4854dbc2010f58c17158
+      internalID: -1459965812225943735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_68
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 456
+        width: 16
+        height: 11
+      alignment: 9
+      pivot: {x: 2.1357582, y: 0.5980502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ee55cb786e5af645a375fb28261aa59
+      internalID: -5317567365643958795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_69
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 457
+        width: 15
+        height: 13
+      alignment: 9
+      pivot: {x: 2.1357582, y: 0.5980502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a6ebe51f1e34048ba38b52e4cd49b7
+      internalID: -3268485526581959175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_70
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 458
+        width: 10
+        height: 10
+      alignment: 9
+      pivot: {x: 2.1357582, y: 0.5980502}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861f54a53f3043b4aa92b79aff8fe0dc
+      internalID: 8575920801118876139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_71
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 454
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ccd661b5102f094ea23373a96826f4e
+      internalID: -1344885697545581341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_72
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 421
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ba98819baca9c4e929019fda6e83c6
+      internalID: -3705674134337221553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_73
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 387
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f772fffd052cd5e4880b5b57722dfdcb
+      internalID: -7887268471796070080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_74
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9223e66cd6c589d4d90ce22181ba4615
+      internalID: -977686325368310280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_75
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 356
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9574018f108637a45a53825738fd72da
+      internalID: -505533522485380679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 356
+        width: 16
+        height: 24
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb5e4d28dbd3db43a5fa1d1ff247fd6
+      internalID: 3520469604123595845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_77
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 353
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93695122fb57a3a459a3b678f1d22a8f
+      internalID: 5321071443513169148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_78
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 353
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb16c003295096b47bd56e172ee39bcb
+      internalID: 8345276182245134374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_79
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 354
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32fb1ac25a1efba4ebd055e562393334
+      internalID: 2126324502980507868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_80
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 354
+        width: 16
+        height: 14
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6fe0c6d4fa71448aa1983b81122972
+      internalID: -8451942642853961461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_81
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 354
+        width: 15
+        height: 9
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9686fa01f7538304785fe4cd54747c3b
+      internalID: 9042221894084452720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_82
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 354
+        width: 11
+        height: 9
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5b35676b5394a488786b2fe2fa9d8b
+      internalID: -181069288641447354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_83
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 354
+        width: 16
+        height: 15
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8827d12fe5e50a5428728bbd9cc41985
+      internalID: -2704796840618627294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_84
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 317
+        width: 14
+        height: 17
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17685794c91f871499e44e0bd1ef9bd5
+      internalID: -353596137847572839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_85
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 317
+        width: 15
+        height: 17
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801ff8b5a96692e4d87c844c12b55699
+      internalID: -5830583819389048117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_86
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 317
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8efb5d9ba7c184abf5c155cc8edabb
+      internalID: 3055175158354177849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_87
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 317
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabacf3cee374a5468935038dbb8408a
+      internalID: -2223063586350387138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_88
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 317
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3516b29c728c07e4eb2b22a2ed5c509b
+      internalID: -8296343020719848070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_89
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 317
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d7b6822d62fa884283279afff63da87
+      internalID: -3037393927398730617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_90
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 317
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27e40dcf38bb756429a9ee5bcdd57cf2
+      internalID: 6927096224756134711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_91
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 317
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d12f0af18573aa3458fc7ad8d66de4ef
+      internalID: -2783857990895312647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_92
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 317
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdf077a9b0908eb46b84238c1139f408
+      internalID: 4909905130378033807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_93
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 317
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ed7535473b8944caca18596c99af51
+      internalID: -3193731382719986954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_94
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 317
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40c5984b0bfc7c74bb975e965764ce0f
+      internalID: 7534032746324658287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_95
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 301
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 712a04a89117b2446aef3ad747410fb1
+      internalID: -4041903683724661228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_96
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 301
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c3ee9dd50988f0499123b2126efa8c8
+      internalID: 8965855039449505464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_97
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 301
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb06eba9b5649a54a80314be2062d107
+      internalID: 3214917592600409275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_98
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 301
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 362666d92d60f2140883195e35751ccc
+      internalID: -5361316371101428772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_99
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 301
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1250b0e75ddb0484c81695865d344cf4
+      internalID: 8999909066757953426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_100
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 301
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3130d7db47bdbaa4097023c9c6c1bff4
+      internalID: 1494544110067343689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_101
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 302
+        width: 16
+        height: 12
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67858cbfce37e3549a144d7312cd389d
+      internalID: -2141338076452442828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_102
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 299
+        width: 16
+        height: 16
+      alignment: 9
+      pivot: {x: 3.527597, y: 0.4322904}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27988cc5e3d5d64daf4917d0c2e41f0
+      internalID: -6360106241450635856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_103
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 299
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4db04018f667e54db97e70572afe85a
+      internalID: 4852997246817754377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 0
+        height: 0
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba03d358006fc470800000000000000
+      internalID: 8417051817461091003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_105
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 299
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1068c60e231763c4cba0878f905cce3a
+      internalID: 497292490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1ccbad5409fdee847ae7e55af8fa8478
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_0: 5839385947754554948
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_1: 5915337118021691647
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_10: -1338537087352171703
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_100: 1494544110067343689
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_101: -2141338076452442828
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_102: -6360106241450635856
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_103: 4852997246817754377
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_104: 8417051817461091003
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_105: 497292490
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_11: -995756791735813838
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_12: 1499026207562634057
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_13: 3402916182907299833
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_14: 3899403235071048666
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_15: 2412374000970607830
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_16: 7432211724360498399
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_17: -37175639633729081
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_18: -5264852093493504813
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_19: 8106043787054775727
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_2: -7554198355689336062
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_20: 472022126340068185
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_21: -487865830820560267
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_22: -2658037282766024345
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_23: 2833084782153921467
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_24: -4777479361559551459
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_25: -6369364818018339270
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_26: 4487024577194899267
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_27: 5936317420271690931
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_28: 4539580704107046883
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_29: 8877411738039330312
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_3: -6416925020780070310
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_30: 355048630958876431
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_31: 3893085072240586367
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_32: 9171102015505670001
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_33: 791218744468711609
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_34: -6214063635593920402
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_35: -561996756487877531
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_36: 7283422502546609764
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_37: -1574864037908442337
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_38: 7018584969977362377
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_39: -2722127288264560780
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_4: -4218064841993956900
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_40: -6709393414983440743
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_41: 7854626040592799993
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_42: 3096834997880701523
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_43: -7564626982899890335
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_44: 8041712339439714898
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_45: 1609175439889738156
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_46: 2052355295785039061
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_47: 4462176046647719894
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_48: -8828635491035188467
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_49: -2433486534859377626
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_5: -8227064857099581334
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_50: 2689212747915282111
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_51: -6720518705156424673
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_52: 6807618993821064295
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_53: 3027228368767700163
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_54: -4378897405336470504
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_55: 5194752514512784083
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_56: -344319957899596377
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_57: -3754736251246746370
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_58: 1107571725646584477
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_59: 3750583273631340835
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_6: 4557570773456041072
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_60: 5972410462227534087
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_61: -6643704627178678633
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_62: -1835185137380172701
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_63: 8872060121484129153
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_64: -513712553439363117
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_65: 5859017568554564150
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_66: 1977405963157095856
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_67: -1459965812225943735
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_68: -5317567365643958795
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_69: -3268485526581959175
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_7: 7818630655130163601
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_70: 8575920801118876139
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_71: -1344885697545581341
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_72: -3705674134337221553
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_73: -7887268471796070080
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_74: -977686325368310280
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_75: -505533522485380679
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_76: 3520469604123595845
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_77: 5321071443513169148
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_78: 8345276182245134374
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_79: 2126324502980507868
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_8: -3633115934714873778
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_80: -8451942642853961461
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_81: 9042221894084452720
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_82: -181069288641447354
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_83: -2704796840618627294
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_84: -353596137847572839
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_85: -5830583819389048117
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_86: 3055175158354177849
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_87: -2223063586350387138
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_88: -8296343020719848070
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_89: -3037393927398730617
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_9: -1742798639079912785
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_90: 6927096224756134711
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_91: -2783857990895312647
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_92: 4909905130378033807
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_93: -3193731382719986954
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_94: 7534032746324658287
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_95: -4041903683724661228
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_96: 8965855039449505464
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_97: 3214917592600409275
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_98: -5361316371101428772
+      Arcade - Donkey Kong - Miscellaneous - Characters and Objects-Photoroom_99: 8999909066757953426
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

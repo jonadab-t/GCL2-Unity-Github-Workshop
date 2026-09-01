@@ -2,8 +2,16 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - JumpFeature
+  - Ladder
+  - LadderExit
+  - hammer
+  - Hammer
+  - Enemy
+  - Barrel
+  - Platform
   layers:
   - Default
   - TransparentFX
@@ -11,12 +19,12 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Ground
+  - Ladder
+  - Player
+  - Barrel
+  - BarrelDrop
+  - Hammer
   - 
   - 
   - 
@@ -41,3 +49,17 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Player
+    uniqueID: 4242981749
+    locked: 0
+  - name: Foreground
+    uniqueID: 455049783
+    locked: 0
+  - name: Midground
+    uniqueID: 1661153113
+    locked: 0
+  - name: Background
+    uniqueID: 3177907007
+    locked: 0
+  m_RenderingLayers:
+  - Default
